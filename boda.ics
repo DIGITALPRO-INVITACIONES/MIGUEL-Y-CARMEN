@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Digital Pro//Boda Miguel y Carmen//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:miguel-carmen-20261227@digitalpro
+DTSTAMP:20261124T000000Z
+DTSTART:20261227T173000Z
+DTEND:20261228T030000Z
+SUMMARY:Boda de Miguel Angel y Carmen Rosa
+LOCATION:Iglesia Adventista del Séptimo Día "Rosas" de Vinto\, Barrio Zurita\, calle Tocopilla
+DESCRIPTION:Ceremonia religiosa 13:30. Luego recepción social en domicilio particular\, Vinto (camino antiguo\, al lado del río Khora). Confirmaciones: +591 63904181.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mañana es la boda de Miguel Angel y Carmen Rosa
+END:VALARM
+END:VEVENT
+END:VCALENDAR

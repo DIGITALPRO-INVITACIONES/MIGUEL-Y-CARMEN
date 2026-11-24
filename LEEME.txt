@@ -1,0 +1,20 @@
+MIGUEL ANGEL & CARMEN ROSA — NUESTRA BODA
+
+Diseño verde pistacho, marfil y dorado. Flores ilustradas (rosas blancas, marfil y pistacho, hortensias, eucalipto, paniculata, hojas doradas).
+Portada con cascada de flores y sobre verde con sello dorado M&C: al tocar el sello se abre la carta y empieza la música ("Te encontré").
+Botones flotantes: animaciones (pausar/reanudar) y música (pausar/continuar).
+
+FECHA: Domingo 27 de diciembre de 2026, 13:30, hora de Bolivia.
+CEREMONIA: Iglesia Adventista del Séptimo Día "Rosas" de Vinto, Barrio Zurita, calle Tocopilla. https://maps.app.goo.gl/cufjoh8YjrUBpJrs9
+RECEPCIÓN: Domicilio particular, Vinto (camino antiguo, al lado del río Khora). https://maps.app.goo.gl/K5DUHByXYGeA89We8
+CONFIRMACIÓN: WhatsApp +591 63904181 (nombre y cantidad de personas, mensaje listo para enviar).
+
+SECCIONES: inicio, padres, fecha (calendario con corazón latiendo y cuenta regresiva), lugares, recuerdos (4 fotos tipo polaroid), cronograma con iconos (la línea se llena al bajar), padrinos, confirmación y cierre.
+FOTOS (carpeta fotos/): recortadas para acercar a la pareja; todas se amplían al tocarlas.
+  portada (vestido rojo, principal) · amor · noche · scout-jardin · selfie-gorra · graduacion-verde · graduacion · selfie-lentes · torta · scout · portada-cierre
+
+PUBLICAR EN GITHUB PAGES
+1. Crea el repositorio con el nombre exacto MIGUEL-Y-CARMEN en la cuenta digitalpro-invitaciones
+   (la vista previa de WhatsApp usa https://digitalpro-invitaciones.github.io/MIGUEL-Y-CARMEN/portada.jpg).
+2. Sube todos los archivos y las carpetas "fotos" y "fuentes" a la raíz, incluido .nojekyll.
+3. Activa GitHub Pages (rama principal, carpeta raíz) y revisa en el celular antes de enviar.
