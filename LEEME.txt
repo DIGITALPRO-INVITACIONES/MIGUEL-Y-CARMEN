@@ -11,7 +11,7 @@ CONFIRMACIÓN: WhatsApp +591 63904181 (nombre y cantidad de personas, mensaje li
 
 SECCIONES: inicio, padres, fecha (calendario con corazón latiendo y cuenta regresiva), lugares, recuerdos (4 fotos tipo polaroid), cronograma con iconos (la línea se llena al bajar), padrinos, confirmación y cierre.
 FOTOS: en JPG y en la raíz (sin carpetas), recortadas para acercar a la pareja; todas se amplían al tocarlas.
-  portada (vestido rojo, principal) · amor · noche · scout-jardin · selfie-gorra · graduacion-verde · graduacion · selfie-lentes · torta · scout · portada-cierre
+  portada (vestido plomo, principal) · rojo (arco de flores) · noche · scout-jardin · selfie-gorra · graduacion-verde · graduacion · selfie-lentes · torta · scout · portada-cierre
 
 PUBLICAR EN GITHUB PAGES
 1. Crea el repositorio con el nombre exacto MIGUEL-Y-CARMEN en la cuenta digitalpro-invitaciones
